@@ -1,5 +1,5 @@
 LiFi-Project-using-Arduino
-the material requried in this project
+ the material requried in this project
 1. Arduino
 2. Bread Board mini
 3. Lcd Display (16,2)
